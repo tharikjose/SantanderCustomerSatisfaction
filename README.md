@@ -8,7 +8,14 @@ Projeto realizado como parte do curso de Formação de Cientista de Dados da Dat
 ## Problema de Negócio
 
 O projeto é baseado no problema proposto pelo [Banco Santander](https://www.santanderbank.com/home) em uma competição no site: [Kaggle](https://www.kaggle.com/competitions/santander-customer-satisfaction), que consiste em classificar clientes satisfeitos e insatisfeitos
-no inicio da interação para que atitudes preventivas sejam tomadas.
+no inicio da interação para que atitudes preventivas sejam tomadas. 
+
+Este projeto seguiu as seguintes etapas para a criação do modelo de Machine Learning:
+
+- Data Cleaning
+- Pré-Processamento
+- Criação de Modelos de Machine Learning
+- Validação e Otimização do Melhor Modelo
 
 
 
