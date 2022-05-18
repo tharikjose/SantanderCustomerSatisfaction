@@ -1,4 +1,4 @@
-<h1 align="center">Estudando e aprendendo sobre o mundo de Data Science !</h1>
+<h1 align="center">Estudando e aprendendo sobre Data Science !</h1>
 
 # SantanderCustomerSatisfaction
 
@@ -10,10 +10,13 @@ Projeto realizado como parte do curso de Formação de Cientista de Dados da Dat
 O projeto é baseado no problema proposto pelo [Banco Santander](https://www.santanderbank.com/home) em uma competição no site: [Kaggle](https://www.kaggle.com/competitions/santander-customer-satisfaction), que consiste em classificar clientes satisfeitos e insatisfeitos
 no inicio da interação para que atitudes preventivas sejam tomadas. 
 
-Este projeto seguiu as seguintes etapas para a criação do modelo de Machine Learning:
-
-- Data Cleaning
-- Pré-Processamento
+Este notebook abordara o problema de negócio descrito acima, passando pelas seguintes etapas de criação de um modelo classificatório:
+- Análise Exploratória
+- Pré-processamento:
+    - Data Cleaning
+    - Feature Engineering
+    - Over/downsampling Data
+    - Data Normalization
 - Criação de Modelos de Machine Learning
 - Validação e Otimização do Melhor Modelo
 
