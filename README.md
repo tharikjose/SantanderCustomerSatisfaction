@@ -1,14 +1,15 @@
-<h1 align="center">Estudando e aprendendo sobre Data Science !</h1>
+# <h1 align="center">Estudando e aprendendo sobre Data Science !</h1>
 
-# SantanderCustomerSatisfaction
+# <font color='green'>Santander Customer Satisfaction</font>
 
 Projeto realizado como parte do curso de Formação de Cientista de Dados da Data Science Academy
 
 
-## Problema de Negócio
+## Problema de Negócio: quais são os clientes satisfeitos ?
 
-O projeto é baseado no problema proposto pelo [Banco Santander](https://www.santanderbank.com/home) em uma competição no site: [Kaggle](https://www.kaggle.com/competitions/santander-customer-satisfaction), que consiste em classificar clientes satisfeitos e insatisfeitos
-no inicio da interação para que atitudes preventivas sejam tomadas. 
+A satisfação do cliente é uma medida fundamental de sucesso. Clientes insatisfeitos não continuam consumindo os produtos da empresa. Além disso, os clientes insatisfeitos raramente expressam sua insatisfação antes de sair.
+
+O [Banco Santander](https://www.santanderbank.com/home) está pedindo à Kagglers que os ajude a identificar clientes insatisfeitos no início de seu relacionamento. Isso permitiria ao Santander tomar medidas proativas para melhorar a felicidade de um cliente antes que seja tarde demais. Nesta [competição](https://www.kaggle.com/competitions/santander-customer-satisfaction) do Kaggle, milhares de recursos anônimos são oferecidos com o intuito de prever se um cliente está satisfeito ou insatisfeito com sua experiência bancária.
 
 Este notebook abordara o problema de negócio descrito acima, passando pelas seguintes etapas de criação de um modelo classificatório:
 - Análise Exploratória
